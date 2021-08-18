@@ -1,0 +1,11 @@
+{
+    "name": "hajimenbou/gethashtest",
+    "autoload": {
+        "psr-4": {
+            "Hajimenbou\\Gethashtest\\": "src/"
+        }
+    },
+    "require": {
+        "saikiran/geohash": "^1.0"
+    }
+}
